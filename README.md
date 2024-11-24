@@ -1,1 +1,1 @@
-Projects in ML I have done so far
+Projects in ML done so far
