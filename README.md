@@ -20,4 +20,3 @@ environmental data. The project was completed in a demanding five-day period. Da
 
 The project aimed to address the challenge of reconstructing missing regions in MRI scans, a critical issue in medical imaging where time and cost constraints often result in incomplete scans. Develop a simple but efficient U-Net that could accurately restore corrupted 64x64 MRI images. 
 
-
