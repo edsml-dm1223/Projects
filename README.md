@@ -4,7 +4,7 @@ This repository has been created to present my portfolios of projects as of Janu
 
 # My projects
 
-## Chaotic storm predictions
+## Chaotic storm predictions. Can be accessed here https://github.com/ese-ada-lovelace-2024/acds-storm-prediction-sally.git
 
 Due to its chaotic nature, predicting storms can be often difficult. This project aimed to assess this inherent difficulty as with time the prediction will always get worse, as well as how different types remote sensing images can lead to different output. The type of images are the following: Vertically Integrated Liquid (VIL), Visible Satellite Imagery (VIS), Infrared 6.9um and Thermal Infrared. D
 - Data : one csv file - event.csv, that contains lightning informations for multiple 'events'. One event is 3 hours. As well as an h5py file with for each event 36 frames. (1 frame every 5 minutes). 
