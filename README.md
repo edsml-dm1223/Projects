@@ -20,3 +20,8 @@ environmental data. The project was completed in a demanding five-day period. Da
 
 The project aimed to address the challenge of reconstructing missing regions in MRI scans, a critical issue in medical imaging where time and cost constraints often result in incomplete scans. Develop a simple but efficient U-Net that could accurately restore corrupted 64x64 MRI images. 
 
+## Wave exploration
+
+Machine Learning project where I experienced diverse Machine Learning algorithms (Bagging, Random Forest), ML tools - grid searchm, and simple pipeline tools for data preprocessing. 
+
+![new-brand-logo-2](https://github.com/user-attachments/assets/b34d84bb-e4ba-43a8-9dfa-1bd306d3a9fe)
