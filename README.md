@@ -1,5 +1,5 @@
-David Mamane, MSc Student at Imperial College London in *Environmental Data Science and machine learning*. 
-My interest lies especially in Deep Learning. 
+David Mamane, MSc Student at Imperial College London in *Environmental Data Science and Machine Learning*. 
+My interest lies especially in Deep Learning and image processing.
 This repository has been created to present my portfolios of projects as of January 2025. The last one includes a project regarding storm prediction in a chaotic environment.
 
 # My projects
