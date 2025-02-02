@@ -23,5 +23,3 @@ The project aimed to address the challenge of reconstructing missing regions in 
 ## Wave exploration
 
 Machine Learning project where I experienced diverse Machine Learning algorithms (Bagging, Random Forest), ML tools - grid searchm, and simple pipeline tools for data preprocessing. 
-
-![new-brand-logo-2](https://github.com/user-attachments/assets/b34d84bb-e4ba-43a8-9dfa-1bd306d3a9fe)
